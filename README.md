@@ -1,4 +1,4 @@
-Learning to Approximate: Auto Direction Vector Set Generation for Hypervolume Contribution Approximation  
+# Learning to Approximate: Auto Direction Vector Set Generation for Hypervolume Contribution Approximation  
 
 The data is organized as below:
 
@@ -7,5 +7,6 @@ The data is organized as below:
 - Folder **CIR_solution_sets** contains the solution sets for the Correct Identification Rate experiment.
 - Folder **Candidate_solution_sets** contains the candidate solution sets for the GAHSS experiment.
 - Folder **LtA-S** contains the single traning solution set and the learned direction vector sets based on it.
-- Folder **LtA-M** contains the modified direction vector set according to the learned direction vector sets.
+- Folder **LtA-M** contains the modified direction vector set based on the learned direction vector sets.
 
+This paper has been submitted to a journal for review. The source code of LtA will be released if the paper is published or the reviewers request. 
