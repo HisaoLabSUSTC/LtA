@@ -8,5 +8,6 @@ The data is organized as below:
 - Folder **Candidate_solution_sets** contains the candidate solution sets for the GAHSS experiment.
 - Folder **LtA-S** contains the single traning solution set and the learned direction vector sets based on it.
 - Folder **LtA-M** contains the modified direction vector set based on the learned direction vector sets.
+- Folder **Code for Figure 1** contains the source code and data for the experiment in Fig. 1.
 
 This paper has been submitted to a journal for review. The source code of LtA will be released if the paper is published or the reviewers request. 
